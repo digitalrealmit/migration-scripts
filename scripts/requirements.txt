@@ -1,0 +1,12 @@
+# Data Migration Project - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core data processing and manipulation
+pandas>=2.0.0
+
+# Excel file reading/writing (.xlsx format)
+openpyxl>=3.1.0
+
+# Numerical operations and validation (optional but recommended)
+numpy>=1.24.0
+
